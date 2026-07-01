@@ -27,7 +27,7 @@ Puedes ejecutar este notebook de las siguientes formas:
 ### Opción 2: Ejecutar en local
 
 - Clona este repositorio:
-git clone [https://github.com/pablojbec/Analisis_Movilidad_vs_Productividad]
+git clone [[https://github.com/pablojbec/Analisis_Movilidad_vs_Productividad)]
 - Accede a la carpeta del proyecto:
 - cd repositorio
 
