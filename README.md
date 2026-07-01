@@ -11,7 +11,7 @@ El dataset `oecd_city_economy` contiene la Indicadores económicos y ambientales
 
 - `/Analysis_TomTom.ipynb`
   → Notebook principal con limpieza, análisis de relaciones para visualizar patrones y conclusiones.
-- →Links a datasets trabajados
+- Datasets trabajados: ladb_mobility_economy_2024_clean.csv y oecd_city_economy.csv
 
 ## ▶️ Cómo ejecutar el notebook
 
