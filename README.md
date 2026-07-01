@@ -1,7 +1,7 @@
 # Análisis Movilidad Urbana vs Productividad
 Este repositorio contiene el análisis realizado para entender la manera en que la movilidad urbana (niveles de congestión, tiempos de viaje, retrasos) se relaciona con la productividad económica (PIB per capita, desempleo) en las principales ciudades latinoamericanas del mundo durante el año 2024.
 
-El dataset `tomtom_traffic` contiene datos de tráfico en tiempo real.
+El dataset `ladb_mobility_economy_2024_clean` contiene datos de tráfico en tiempo real.
 
 El dataset `oecd_city_economy` contiene la Indicadores económicos y ambientales por ciudad, recopilados por la Organización para la Cooperación y el Desarrollo Económico (OECD).
 
